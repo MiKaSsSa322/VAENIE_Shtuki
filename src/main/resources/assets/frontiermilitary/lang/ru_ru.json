@@ -1,0 +1,13 @@
+{
+  "itemGroup.frontiermilitary": "Frontier Military",
+  "block.frontiermilitary.metal_fence": "Военное металлическое ограждение",
+  "block.frontiermilitary.security_bars": "Защитная решётка",
+  "block.frontiermilitary.concrete_barrier": "Бетонный барьер",
+  "block.frontiermilitary.watch_post_lamp": "Фонарь поста охраны",
+  "item.frontiermilitary.pulse_sidearm": "Автомат (игровой макет)",
+  "item.frontiermilitary.field_ration": "Полевой паёк",
+  "item.frontiermilitary.reinforced_fiber": "Усиленное волокно",
+  "item.frontiermilitary.rifle_ammo": "Боеприпасы",
+  "tooltip.frontiermilitary.rifle_ammo_count": "Заряжено: %1$s / %2$s",
+  "tooltip.frontiermilitary.reload_hint": "Shift + ПКМ — пополнить запас"
+}

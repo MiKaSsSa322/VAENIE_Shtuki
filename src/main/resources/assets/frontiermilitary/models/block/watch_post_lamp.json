@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/lantern",
+  "textures": {
+    "all": "frontiermilitary:block/watch_post_lamp",
+    "particle": "frontiermilitary:block/watch_post_lamp"
+  }
+}

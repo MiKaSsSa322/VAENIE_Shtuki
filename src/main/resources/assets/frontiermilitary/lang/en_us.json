@@ -1,0 +1,13 @@
+{
+  "itemGroup.frontiermilitary": "Frontier Military",
+  "block.frontiermilitary.metal_fence": "Military Metal Fence",
+  "block.frontiermilitary.security_bars": "Security Bars",
+  "block.frontiermilitary.concrete_barrier": "Concrete Barrier",
+  "block.frontiermilitary.watch_post_lamp": "Watch Post Lamp",
+  "item.frontiermilitary.pulse_sidearm": "Stylized Rifle",
+  "item.frontiermilitary.field_ration": "Field Ration",
+  "item.frontiermilitary.reinforced_fiber": "Reinforced Fiber",
+  "item.frontiermilitary.rifle_ammo": "Rifle Ammo",
+  "tooltip.frontiermilitary.rifle_ammo_count": "Loaded: %1$s / %2$s",
+  "tooltip.frontiermilitary.reload_hint": "Shift + Right Click to reload"
+}

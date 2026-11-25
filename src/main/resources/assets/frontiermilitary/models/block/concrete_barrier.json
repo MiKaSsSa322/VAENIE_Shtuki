@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cobblestone_wall",
+  "textures": {
+    "wall": "frontiermilitary:block/concrete_barrier",
+    "particle": "frontiermilitary:block/concrete_barrier"
+  }
+}

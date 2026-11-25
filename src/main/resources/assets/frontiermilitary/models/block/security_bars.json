@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/iron_bars",
+  "textures": {
+    "bars": "frontiermilitary:block/security_bars",
+    "edge": "frontiermilitary:block/security_bars",
+    "particle": "frontiermilitary:block/security_bars"
+  }
+}
